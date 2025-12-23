@@ -1,4 +1,4 @@
-# 🏆 Award Gaming
+# 🏆 Award Winning
 
 Award Gaming is a visually immersive website that gamifies user interaction through a dynamic reward system. Built with modern front end technologies. It offers smooth scroll animations, video transitions, a fully responsive design focused on aesthetics, performance, reusable code and showcasing advanced UI/UX skills.
 
