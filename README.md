@@ -10,3 +10,9 @@ Award Gaming is a visually immersive website that gamifies user interaction thro
 - 🎥 **Video transitions** : Seamless video effects to create an immersive atmosphere.
 - ♻️ **Reusable and clean code** : Modular and maintainable structure for easy updates. 
 - 📱 **Responsive design** : Optimized for all devices and from mobile phones to desktops.
+
+---
+
+## 🖼️ Screenshot
+
+<img width="1919" height="939" alt="Screenshot 2025-12-23 081424" src="https://github.com/user-attachments/assets/f909c478-0439-4823-8b82-08449f8c8261" />
