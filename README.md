@@ -16,4 +16,4 @@ Award Winning is a visually immersive website that gamifies user interaction thr
 
 ## 🖼️ Screenshot
 
-<img width="1919" height="939" alt="Screenshot 2025-12-23 081424" src="https://github.com/user-attachments/assets/f909c478-0439-4823-8b82-08449f8c8261" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-23 095954" src="https://github.com/user-attachments/assets/5bbc8e5b-1d74-43f8-abdf-b80238037928" />
